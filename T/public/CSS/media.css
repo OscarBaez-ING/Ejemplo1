@@ -1,0 +1,28 @@
+
+
+
+@media (max-width: 500px) {
+  /*
+  .facet_sidebar {
+    display: none;
+  */
+
+h1{
+	text-align: center;
+	color: blue;
+	/*font-style: italic;*/
+	font-style: oblique;
+	font-size: 12vw;
+	padding-top: 25vw;
+}
+
+
+.container{
+ 	background-color: aqua;
+ }
+
+
+
+
+  }
+}
